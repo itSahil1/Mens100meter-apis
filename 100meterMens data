@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "66e1d0e1d15f3b93e641d5a7",
+        "ranking": 1,
+        "name": "Christian COLE",
+        "dob": "1996-03-05T18:30:00.000Z",
+        "country": "USA",
+        "score": 1477,
+        "event": "100",
+        "__v": 0
+    },
+    {
+        "_id": "66e1ec5b25f20395c41106cb",
+        "ranking": 2,
+        "name": "Justin GATLIN",
+        "dob": "1982-02-09T18:30:00.000Z",
+        "country": "USA",
+        "score": 1428,
+        "event": "100",
+        "__v": 0
+    },
+    {
+        "_id": "66e1db16917af2341ddb6931",
+        "ranking": 3,
+        "name": "Akani SIMBINE",
+        "dob": "1993-09-20T18:30:00.000Z",
+        "country": "RSA",
+        "score": 1392,
+        "event": "100",
+        "__v": 0
+    },
+    {
+        "_id": "66e1dc58a745f08237fdd6a0",
+        "ranking": 4,
+        "name": "Zharnel HUGHES",
+        "dob": "1995-07-18T18:30:00.000Z",
+        "country": "GBR",
+        "score": 1379,
+        "event": "100",
+        "__v": 0
+    },
+    {
+        "_id": "66e1ec0d25f20395c41106c9",
+        "ranking": 5,
+        "name": "Yohan Blake",
+        "dob": "1989-12-25T18:30:00.000Z",
+        "country": "JAM",
+        "score": 1377,
+        "event": "100",
+        "__v": 0
+    },
+    {
+        "_id": "66e2804e07765b8777a28f0d",
+        "ranking": 6,
+        "name": "Yohan Razor",
+        "dob": "1990-09-12T00:00:00.000Z",
+        "country": "JAM",
+        "score": 1377,
+        "event": "100",
+        "__v": 0
+    }
+]
